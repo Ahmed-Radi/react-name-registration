@@ -1,2 +1,2 @@
-# -Ract-name-registration
+# React-name-registration
 Record the names and age of each individual
